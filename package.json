@@ -1,0 +1,12 @@
+{
+  "name": "auxilio-sim",
+  "version": "1.0.0",
+  "description": "Simulador interactivo de primeros auxilios en el hogar",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "start": "npx serve . -p 3000",
+    "preview": "npx serve . -p 3000"
+  },
+  "keywords": ["primeros-auxilios", "pwa", "simulador", "salud"],
+  "license": "MIT"
+}
